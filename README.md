@@ -11,7 +11,7 @@ The dataset used in this project is sourced from [insert dataset source here]. I
 - Location (latitude and longitude)
 - Year built
 - Sale price
-- 
+
 ## Dependencies
 - Python 3.x
 - NumPy
